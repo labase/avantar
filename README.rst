@@ -2,8 +2,13 @@
    **Copyright © 2023  Carlo Oliveira** <carlo@nce.ufrj.br>,
    **SPDX-License-Identifier:** `GNU General Public License v3.0 or later <http://is.gd/3Udt>`_.
    `Labase <http://labase.selfip.org/>`_ - `NCE <https://portal.nce.ufrj.br>`_ - `UFRJ <https://ufrj.br/>`_.
+.. raw:: html
 
-A V A N T A R 🐧
+    <style> .sky {background-color: rgb(73, 107, 146); color: rgb(255, 255, 255);} </style>
+
+.. role:: sky
+
+:sky:`A V A N T A R 🐧`
 ===================================
 
 |A V A N T A R 🐧|
@@ -71,7 +76,7 @@ LABASE_ - NCE_ - UFRJ_
 .. _Projeto Avantar: https://activufrj.nce.ufrj.br/wiki/SuPyGirls/Projeto_Antartida
 
 .. |rtfd| image:: https://readthedocs.org/projects/avantar/badge/?version=latest
-   :target: https://i.imgur.com/A1fkdON.jpeg
+   :target: https://i.imgur.com/y0ZKmAg.jpg
 
 .. |github| image:: https://img.shields.io/badge/release-23.08-blue
    :target: https://github.com/labase/avantar/releases
