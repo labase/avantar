@@ -4,6 +4,8 @@
    `Labase <http://labase.selfip.org/>`_ - `NCE <https://portal.nce.ufrj.br>`_ - `UFRJ <https://ufrj.br/>`_.
 .. include:: special.rst
 
+.. role:: sky
+
 :sky:`A V A N T A R 🐧`
 ===================================
 
