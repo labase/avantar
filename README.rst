@@ -4,7 +4,7 @@
    `Labase <http://labase.selfip.org/>`_ - `NCE <https://portal.nce.ufrj.br>`_ - `UFRJ <https://ufrj.br/>`_.
 .. include:: special.rst
 
-:sky:`A V A N T A R 🐧`
+A V A N T A R 🐧
 ===================================
 
 |A V A N T A R 🐧|
@@ -72,7 +72,7 @@ LABASE_ - NCE_ - UFRJ_
 .. _Projeto Avantar: https://activufrj.nce.ufrj.br/wiki/SuPyGirls/Projeto_Antartida
 
 .. |rtfd| image:: https://readthedocs.org/projects/avantar/badge/?version=latest
-   :target: https://avantar.readthedocs.io/en/latest/
+   :target: https://avantar.readthedocs.io/pt/latest/
 
 .. |github| image:: https://img.shields.io/badge/release-23.08-blue
    :target: https://github.com/labase/avantar/releases
