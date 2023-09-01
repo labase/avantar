@@ -2,11 +2,7 @@
    **Copyright © 2023  Carlo Oliveira** <carlo@nce.ufrj.br>,
    **SPDX-License-Identifier:** `GNU General Public License v3.0 or later <http://is.gd/3Udt>`_.
    `Labase <http://labase.selfip.org/>`_ - `NCE <https://portal.nce.ufrj.br>`_ - `UFRJ <https://ufrj.br/>`_.
-.. raw:: html
-
-    <style> .sky {background-color: rgb(73, 107, 146); color: rgb(255, 255, 255);} </style>
-
-.. role:: sky
+.. include:: special.rst
 
 :sky:`A V A N T A R 🐧`
 ===================================
@@ -19,7 +15,7 @@ Viagem (f) Antártica! Uma aventura virtual no mundo da Antártida.
 
 
 :Author:  Carlo E. T. Oliveira
-:Version: 23.08
+:Version: 23.09
 :Affiliation: Universidade Federal do Rio de Janeiro
 :License: GNU General Public License v3 or later (GPLv3+)
 :Homepage: `Projeto Avantar`_
