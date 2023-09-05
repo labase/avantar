@@ -75,7 +75,7 @@ mudança global do clima), 14 (vida na água) e 15 (vida terrestre)
 .. _Projeto Avantar: https://activufrj.nce.ufrj.br/wiki/SuPyGirls/Projeto_Antartida
 
 .. |rtfd| image:: https://readthedocs.org/projects/avantar/badge/?version=latest
-   :target: https://i.imgur.com/y0ZKmAg.jpg
+   :target: https://avantar.readthedocs.io/pt/latest/
 
 .. |github| image:: https://img.shields.io/badge/release-23.08-blue
    :target: https://github.com/labase/avantar/releases
